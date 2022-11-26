@@ -1,4 +1,4 @@
-An evaluation of the impact of COVID-19 lockdowns on electricity demand
+# An evaluation of the impact of COVID-19 lockdowns on electricity demand
 
 Jinran Wu, Noa Levi, Robyn Araujo, You-Gan Wang
 
