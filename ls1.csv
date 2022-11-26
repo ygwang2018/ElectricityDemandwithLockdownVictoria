@@ -1,0 +1,16 @@
+,x
+(Intercept),4766.187715
+TrainXDataIndex,-0.003979748
+TrainXWorkDay,486.8216265
+TrainXDailySin,-516.3588972
+TrainXDailyCos,-256.3904466
+TrainXHalfDailySin,-371.3172216
+TrainXHalfDailyCos,-151.6931799
+TrainXWeeklySin,-90.67733791
+TrainXWeeklyCos,78.26882198
+TrainXMonthlySin,-21.65190618
+TrainXMonthlyCos,-9.057158206
+TrainXSeasonalSin,-31.68561508
+TrainXSeasonalCos,-67.9493604
+TrainXYearlySin,-8.001584178
+TrainXYearlyCos,-323.3781323
